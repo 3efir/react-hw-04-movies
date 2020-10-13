@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AACI,uBACI,YAAa,CAChB,2BAGG,iBAAkB","file":"movie-datails-page.7a7b78df.chunk.css","sourcesContent":[".details-page {\n    &__content {\n        display: flex;\n    }\n\n    &__img-wrapper {\n        margin-right: 25px;\n    }\n}"]}
